@@ -1,0 +1,11 @@
+bottom => 6 pieces  with curves up + bow + stern -> left and right pieces combined  - 4 pages
+sides  => 8x2 pieces																- 4 pages
+wings  => 4x2 pieces (top + sides+bottom)											- 4 pages
+top    => 8 pieces																	- 4 pages
+																					============
+																					  16 pages
+																					  
+todo:
+	break page1 and page2 into groups that are ready for page split
+	make model of bumps on the sides
+	
