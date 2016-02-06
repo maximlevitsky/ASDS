@@ -16,9 +16,8 @@ total: 16 pages
 ================================================================================
 todo:
 	=== body ===
-	* break page1 into groups that are ready for page split (almost done)
-	* create model for wings that span top and the bottom of the wing
 	* break page2 into groups that are ready for page split
+	* create model for wings that span top and the bottom of the wing
 	* create red models for the bottom
 	=== rest of the stuff ===
 	lets reach this point :-)
