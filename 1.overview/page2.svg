@@ -33,11 +33,11 @@
      inkscape:window-height="1028"
      inkscape:window-width="1920"
      showgrid="true"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer8"
      inkscape:document-units="mm"
-     inkscape:cy="496.3621797012944"
-     inkscape:cx="770.0310663148778"
-     inkscape:zoom="0.5000000002624624"
+     inkscape:cy="738.5854536872805"
+     inkscape:cx="916.4521133325146"
+     inkscape:zoom="1.41421356199616"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -2149,15 +2149,6 @@
        id="path4621-6-1-4-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <use
-       style="display:inline;opacity:1"
-       x="0"
-       y="0"
-       xlink:href="#path4621-6-1-4-2-6"
-       id="use18632-8-1-4"
-       transform="matrix(-0.9933973807025552,0,0,0.9933973807025553,880.6680735409237,-1931.033894346199)"
-       width="100%"
-       height="100%" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:15.0592575073px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

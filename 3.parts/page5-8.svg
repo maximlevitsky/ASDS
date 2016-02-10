@@ -11,12 +11,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="1.parts-top.svg"
+   sodipodi:docname="page5-8.svg"
    inkscape:version="0.91 r13725"
    version="1.1"
    id="svg2"
-   viewBox="0 0 956.6929074852817 690.5263618349986"
-   height="194.8818817138672mm"
+   viewBox="0 0 956.6929074852818 687.401584066588"
+   height="194mm"
    width="270mm">
   <sodipodi:namedview
      inkscape:snap-tangential="true"
@@ -35,9 +35,9 @@
      showgrid="true"
      inkscape:current-layer="layer4"
      inkscape:document-units="mm"
-     inkscape:cy="514.3456786570956"
-     inkscape:cx="393.1474093731764"
-     inkscape:zoom="15.99999996623045"
+     inkscape:cy="335.5758302660163"
+     inkscape:cx="495.1595599184835"
+     inkscape:zoom="0.9999999999998382"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -265,7 +265,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
       </cc:Work>
@@ -291,9 +291,9 @@
      id="layer4"
      inkscape:label="Model"
      style="display:inline"
-     transform="translate(0,-2289.395031441106)">
+     transform="translate(0,-2292.519888792206)">
     <g
-       transform="matrix(0,1,-1,0,2778.024766947574,1590.900871409215)"
+       transform="matrix(0,-0.9999999999999998,1,0,-2264.173376608538,3677.952389658663)"
        style="display:inline"
        id="g5115">
       <path
@@ -312,7 +312,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:14.1732282639;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     </g>
     <g
-       transform="matrix(0,1,-1,0,2778.055990002485,1587.337609338865)"
+       transform="matrix(0,-0.9999999999999982,1,0,-2264.172850343202,3681.495566993943)"
        style="display:inline"
        id="g5119">
       <path
@@ -361,7 +361,7 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-2260.604838064613,3125.218422368409)"
+       transform="matrix(0,0.9999999999999991,-1,0,2774.409838523604,2150.787594556561)"
        style="display:inline"
        id="g5157">
       <path
@@ -446,7 +446,7 @@
          y="354.9414978027344" />
     </g>
     <g
-       transform="matrix(0,1,-0.9999999999999998,0,3238.525106998851,2186.366363370571)"
+       transform="matrix(0,-1,0.9999999999999998,0,-1799.999566662977,3079.134094333781)"
        style="display:inline"
        id="g5140">
       <path
@@ -474,7 +474,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0,0.9999999999999991,-1,0,3238.570662535029,2189.857656395599)"
+       transform="matrix(0,-0.9999999999999992,1,0,-1800.000092928314,3075.589889105605)"
        style="display:inline"
        id="g5689">
       <path
@@ -524,7 +524,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-1799.922312942654,3624.853904185515)"
+       transform="matrix(0,0.9999999999999989,-1,0,3238.582768614848,1640.55138591118)"
        style="display:inline"
        id="g7161">
       <path
@@ -663,7 +663,7 @@
          style="fill:#a5a5a5;fill-opacity:1;stroke:none;stroke-width:0.1771653593;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-1799.964912339111,3617.709297423395)"
+       transform="matrix(0,1,-1,0,3238.582768614846,1651.181216989657)"
        style="display:inline"
        id="g7234">
       <path
@@ -729,7 +729,7 @@
          y="2374.052490234375" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-2260.594910789923,3128.724743418018)"
+       transform="matrix(0,1,-0.9999999999999998,0,2774.405941627535,2143.700475146953)"
        style="display:inline"
        id="g5220">
       <path
@@ -888,7 +888,7 @@
          y="290.3592529296875" />
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,25.93191238843996,1734.187224226544)"
+       transform="matrix(0.303057680264305,0,0,0.3023171608718766,25.93185444460166,1734.187270572125)"
        style="display:inline;opacity:1"
        id="g3752-2-4">
       <rect
@@ -943,7 +943,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,486.6225531709363,1734.187224226544)"
+       transform="matrix(0.303057680264305,0,0,0.3023171608718766,486.6225501457086,1734.187270572125)"
        style="display:inline;opacity:1"
        id="g3752-2-4-4">
       <rect
@@ -998,7 +998,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,25.93191238843996,2053.09347422367)"
+       transform="matrix(0.303057680264305,0,0,0.3023171608718766,25.93185444460166,2053.093539577547)"
        style="display:inline;opacity:1"
        id="g3752-2-4-1">
       <rect
@@ -1053,7 +1053,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,486.6225531709363,2053.09347422367)"
+       transform="matrix(0.303057680264305,0,0,0.3023171608718766,486.6225501457086,2053.093539577547)"
        style="display:inline;opacity:1"
        id="g3752-2-4-4-1">
       <rect
