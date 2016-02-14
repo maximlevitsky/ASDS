@@ -11,7 +11,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="2.parts-wings.svg"
+   sodipodi:docname="page9-12.svg"
    inkscape:version="0.91 r13725"
    version="1.1"
    id="svg2"
@@ -35,9 +35,9 @@
      showgrid="true"
      inkscape:current-layer="layer4"
      inkscape:document-units="mm"
-     inkscape:cy="334.1606580730299"
-     inkscape:cx="413.2616779688788"
-     inkscape:zoom="1.000000004220521"
+     inkscape:cy="428.1323247824721"
+     inkscape:cx="194.6584291610668"
+     inkscape:zoom="1.414213567968718"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -314,19 +314,17 @@
      style="display:inline"
      transform="translate(0,-2289.395031441106)">
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,25.93191238843996,1734.187224226544)"
-       style="display:inline;opacity:1"
-       id="g3752-2-4">
+       id="g4447">
       <rect
-         y="1950.590698242188"
-         x="37.2047233581543"
-         height="992.1259765625"
-         width="1413.779541015625"
+         y="2323.88427734375"
+         x="37.20708847045898"
+         height="299.9366760253906"
+         width="428.4566955566406"
          id="rect14304-7-2"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:11.7061691284;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.125984252;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          id="g6024-6-1"
-         transform="matrix(0.5923914466604608,0,0,0.5923914466604609,35.02595443255777,1676.025652543229)"
+         transform="matrix(0.179528756231837,0,0,0.1790900896045725,36.54679562242133,2240.878510850691)"
          style="display:inline;opacity:1">
         <image
            inkscape:transform-center-y="-8.281265825947333"
@@ -369,19 +367,17 @@
       </g>
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,486.6225531709363,1734.187224226544)"
-       style="display:inline;opacity:1"
-       id="g3752-2-4-4">
+       id="g4465">
       <rect
-         y="1950.590698242188"
-         x="37.2047233581543"
-         height="992.1259765625"
-         width="1413.779541015625"
+         y="2323.88427734375"
+         x="497.8977355957031"
+         height="299.9366760253906"
+         width="428.4566955566406"
          id="rect14304-7-2-7"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:11.7061691284;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.125984252;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          id="g6024-6-1-2"
-         transform="matrix(0.5923914466604608,0,0,0.5923914466604609,35.02595443255777,1676.025652543229)"
+         transform="matrix(0.179528756231837,0,0,0.1790900896045725,497.2374364049177,2240.878510850691)"
          style="display:inline;opacity:1">
         <image
            inkscape:transform-center-y="-8.281265825947333"
@@ -424,21 +420,20 @@
       </g>
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,25.93191238843996,2053.09347422367)"
-       style="display:inline;opacity:1"
-       id="g3752-2-4-1">
+       id="g4483">
       <rect
-         y="1950.590698242188"
-         x="37.2047233581543"
-         height="992.1259765625"
-         width="1413.779541015625"
+         y="2642.79052734375"
+         x="37.20708847045898"
+         height="299.9366760253906"
+         width="428.4566955566406"
          id="rect14304-7-2-4"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:11.7061691284;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.125984252;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          id="g6024-6-1-7"
-         transform="matrix(0.5923914466604608,0,0,0.5923914466604609,35.02595443255777,1676.025652543229)"
-         style="display:inline;opacity:1">
+         transform="matrix(0.179528756231837,0,0,0.1790900896045725,36.54679562242133,2559.784760847817)"
+         style="display:inline;opacity:1;stroke-width:11.8565204656;stroke-miterlimit:4;stroke-dasharray:none">
         <image
+           style="stroke-width:11.8565204656;stroke-miterlimit:4;stroke-dasharray:none"
            inkscape:transform-center-y="-8.281265825947333"
            inkscape:transform-center-x="-1.980101317032615"
            transform="matrix(0.9880172581988791,-0.1543434400976261,0.1543434400976261,0.9880172581988791,0,0)"
@@ -451,27 +446,27 @@
            width="187.5" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.8565204656;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
            x="127.66822"
            y="647.91492"
            id="text6016-3-7-0"
            sodipodi:linespacing="125%"><tspan
-             style="text-align:center;text-anchor:middle"
+             style="text-align:center;text-anchor:middle;stroke-width:11.8565204656;stroke-miterlimit:4;stroke-dasharray:none"
              sodipodi:role="line"
              id="tspan6018-8-7-8"
              x="131.18384"
              y="647.91492">&quot;Of course </tspan><tspan
-             style="text-align:center;text-anchor:middle"
+             style="text-align:center;text-anchor:middle;stroke-width:11.8565204656;stroke-miterlimit:4;stroke-dasharray:none"
              id="tspan3500-9-9-0"
              sodipodi:role="line"
              x="131.18384"
              y="672.91492">I still love you&quot; </tspan><tspan
-             style="text-align:center;text-anchor:middle"
+             style="text-align:center;text-anchor:middle;stroke-width:11.8565204656;stroke-miterlimit:4;stroke-dasharray:none"
              sodipodi:role="line"
              x="131.18384"
              y="697.91492"
              id="tspan6022-6-2-25"> scale model  </tspan><tspan
-             style="text-align:center;text-anchor:middle"
+             style="text-align:center;text-anchor:middle;stroke-width:11.8565204656;stroke-miterlimit:4;stroke-dasharray:none"
              id="tspan3502-5-6-9"
              sodipodi:role="line"
              x="127.66822"
@@ -479,19 +474,17 @@
       </g>
     </g>
     <g
-       transform="matrix(0.3030576441370142,0,0,0.3023171428523696,486.6225531709363,2053.09347422367)"
-       style="display:inline;opacity:1"
-       id="g3752-2-4-4-1">
+       id="g4501">
       <rect
-         y="1950.590698242188"
-         x="37.2047233581543"
-         height="992.1259765625"
-         width="1413.779541015625"
+         y="2642.79052734375"
+         x="497.8977355957031"
+         height="299.9366760253906"
+         width="428.4566955566406"
          id="rect14304-7-2-7-1"
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:11.7061691284;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.125984252;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
          id="g6024-6-1-2-1"
-         transform="matrix(0.5923914466604608,0,0,0.5923914466604609,35.02595443255777,1676.025652543229)"
+         transform="matrix(0.179528756231837,0,0,0.1790900896045725,497.2374364049177,2559.784760847817)"
          style="display:inline;opacity:1">
         <image
            inkscape:transform-center-y="-8.281265825947333"
