@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="front-lowered.svg">
+   sodipodi:docname="lowered-front.svg">
   <metadata
      id="metadata5833">
     <rdf:RDF>
@@ -39,9 +39,9 @@
      id="namedview5831"
      showgrid="false"
      units="mm"
-     inkscape:zoom="2.940299031011436"
-     inkscape:cx="331.1730978619874"
-     inkscape:cy="1526.541557915667"
+     inkscape:zoom="2.085318461710219"
+     inkscape:cx="235.87413603497"
+     inkscape:cy="163.2166016201041"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -2810,7 +2810,7 @@
      inkscape:groupmode="layer"
      id="g5379"
      transform="translate(0,736.6535433070863)"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#0f7900;stroke-opacity:1"
        d="m 30.26733534441138,-379.5821552755909 0,3.543307"
@@ -4893,7 +4893,7 @@
      inkscape:groupmode="layer"
      id="g3375"
      transform="translate(0,736.6535433070863)"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#051f95;stroke-opacity:1"
        d="m 283.1708783444112,-424.334124275591 116.929134,0"
@@ -6495,7 +6495,7 @@
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         d="m 983.4181817988119,-544.4486902755893 158.561739453128,-0.00329749929 -0.00670196,55.307967499289 31.435835960063,-0.00326452633 0,64.8131605263274 -221.4212600000318,1.5e-12 -0.00439340238,-64.8098959999989 31.4335274023731,-1.9e-12 z"
+         d="m 983.4181817988119,-544.4486902755893 158.561739453128,-0.00329749929 -0.00670196,55.3079674992888 31.435835960063,-0.00326452633 0,64.8131605263274 -221.4212600000324,1.5e-12 -0.00439340238,-64.8098959999989 31.4335274023731,-1.9e-12 z"
          style="fill:none;stroke:#051f95;stroke-width:0.9999999404;stroke-opacity:1"
          id="path3805-6" />
       <path
@@ -6586,7 +6586,7 @@
      inkscape:groupmode="layer"
      id="g3179"
      transform="translate(0,736.6535433070863)"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000"
        d="m 183.0724533444113,-387.5545962755909 200.1968499999999,0"
@@ -7103,7 +7103,7 @@
      inkscape:groupmode="layer"
      id="g2769"
      transform="translate(0,736.6535433070863)"
-     style="display:none">
+     style="display:inline">
     <path
        style="display:inline;fill:none;stroke:#ff0000"
        d="m 422.4051303444114,897.7800487244087 a 139.2342520000001,139.2342520000001 0 1 0 -278.4685040000002,0 139.2342520000001,139.2342520000001 0 0 0 278.4685040000002,0 z"
@@ -7650,7 +7650,7 @@
      inkscape:groupmode="layer"
      id="g5301"
      transform="translate(0,736.6535433070863)"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#00ffff;stroke-dasharray:4.4291, 0.8858, 0.8858, 0.8858"
        d="m 121.5074923444113,-491.417785275591 22.145669,0"
