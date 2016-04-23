@@ -3,24 +3,25 @@ Here you can find the model of the Marmac 304, the ship that is used for Space X
 Also known as Of course I still love you (OCISLY)
 
 You can see photos of the ship I used for making of this model [here](https://www.dropbox.com/sh/jc2snurk24o9cq0/AADZW3qmElcvnz1lQIbQlDDra?dl=0)
+
 Huge thanks to all fans that made these photos, without them it would be impossible to make the model.
 
-Final model will be in 1:100 scale although currently for development I use (1 foot = i mm scale) 
+Final model will be in 1:100 scale although currently for development I use (1 foot = i mm scale)
 
 # Folder structure
 
-## 1.overview
+## golden_model
 this is as detailed as possible orthorgraphic rendering of the ship - golden model.
+
+It serves here the role of 'golden' model - from it I take all the dimensions for rest of the model.
 
 It is not intended to be printed, but only used to get general idea of the model.
 
-It also serves here the role of 'golden' model - from it I take all the dimensions for rest of the model.
-
 **STATUS:** As of today, it should be up to date with the OCISLY.
 
-## 2. cardboard
+## 2. foamboard
+This is set of the instructions to cut and create an foamboard model to serve as the base of the ship.
 
-This is set of the instructions to cut and create an carboard model to serve as the base of the ship
 It is needed since ship at 1:100 is huge so it won't support itself if only made of paper.
 
 I will eventually add an tutorial explaining every step in the model making.
@@ -28,31 +29,56 @@ I will eventually add an tutorial explaining every step in the model making.
 You can also skip printing these files since you will only read them, but a print is handy to
 have while doing the cutting/gluing.
 
-**STATUS:** Model is complete and even made in real life, but maybe needs an update to wings lengths
-(and the real life model needs a surgery to fix this...)
+To build you need two 1meter x 70 cm sheets of 4 mm thick foamboard. 5 or 3 mm probalby will
+work just fine, but thiker that 5 mm foamboard is not recommented.
 
-## 3.parts
+You will also need a brick of Plasticine (or some other semi soft modelling clay) to fill
+some voids.
 
-This is the draft of the paper model. It is in 1 foot == 1 mm scale, to avoid mistakes,
-When I finish I will once convert these pages to A3 pages that will be printed.
+**STATUS:** As of today, it should be up to date with the OCISLY and it was tested except
+minor modifications that unlikely to break it.
 
-**STATUS:** Very outdated - will work on this next
+## base_model
+This is set of large decals to be glued onto the foamboard to give all the awesome
+SpaceX branding, etc.
+
+It is intended to be set of A3 pages to be printed in color, but I might swithc
+to A4 later.
+
+**STATUS:** Ship body done, but untested. Needs testing especially on sides and bottom model
+
+## eqipment
+
+Here I will add models of the equipments used on the ship.
 
 
-## 4.engine
+**STATUS:** Model of the thrustmaster OD1000 moslty done, but needs testing on my side
 
-Model of Thrustmaster OD1000 engine.
+Also needs tutorial
 
-Here the model is in **model.svg**
-Here currently scale is (1 inch = 1 mm) 
 
-Rest are processed DWG drawings from the Trustmaster website,converted to SVG, cleaned up of junk, broken down to layers, and in some cases have some parts added by guessing.
+# TODO - modelling
+This is the stuff that is physically missing from the model
+* Fence
+* Engine mounts
+* Thrustmaster power units
+* White containers
+* Generators
+* Blast walls (don't forget the four leaf clover...)
+* Two towers
 
-(Especially straight-side.svg - this is sort of golden model for the engine)
+# TODO - building model
+This is the stuff I should do to verify that my models work in real life 
 
-I will also soon add an tutorial on how to create the model, as it is quite hard.
+(since only in theory there is no difference between threory and real world)
 
-**STATUS:** One prototype was made, then model received lot of small updates.
-
-Soon will make another prototype to test again the quality.
-Model should be complete.
+* Build engine support mounts
+* build engine model again
+* fix up the foamboard model I have with correct wings lengths (real foamboard model I have)
+* print the decals for the foamboard model and glue them to it.
+* build 4 engines + **record tutorial on engine building**
+* build rest of deck equipment.
+* Optional - build another foamboard model and **record tutorial on foamboard building**
+* Optional - **create tutorial on gluing decals to the foamboard**
+* Ship it :-)
+* Make insturctions for Just read the Instructions.
