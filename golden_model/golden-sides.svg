@@ -11,7 +11,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="page2.svg"
+   sodipodi:docname="golden-sides.svg"
    inkscape:version="0.91 r13725"
    version="1.1"
    id="svg2"
@@ -19,12 +19,12 @@
    height="297mm"
    width="420mm">
   <sodipodi:namedview
-     inkscape:snap-tangential="true"
-     inkscape:snap-perpendicular="true"
-     objecttolerance="5"
+     inkscape:snap-tangential="false"
+     inkscape:snap-perpendicular="false"
+     objecttolerance="1"
      units="mm"
-     guidetolerance="5"
-     gridtolerance="5"
+     guidetolerance="1"
+     gridtolerance="1"
      showguides="false"
      inkscape:snap-intersection-paths="true"
      inkscape:window-maximized="1"
@@ -33,11 +33,11 @@
      inkscape:window-height="1028"
      inkscape:window-width="1920"
      showgrid="true"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="706.9658481646948"
-     inkscape:cx="1078.857757973443"
-     inkscape:zoom="4.145821616199504"
+     inkscape:cy="766.3975397084207"
+     inkscape:cx="313.5704630421171"
+     inkscape:zoom="4.145821616199376"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -890,7 +890,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
       </cc:Work>
@@ -5224,7 +5224,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g9207">
+       id="g9207"
+       transform="translate(-0.1060426562211196,0.0410118396737289)">
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:0.1062992066;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 330.0683444520032,313.7468575405459 3.2971868629624,-8.1250052419562"

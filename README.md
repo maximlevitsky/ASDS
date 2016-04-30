@@ -52,7 +52,7 @@ to A4 later.
 Here I will add models of the equipments used on the ship.
 
 
-**STATUS:** Model of the thrustmaster OD1000 moslty done, but needs testing on my side
+**STATUS:** Model of the thrustmaster OD1000 done
 
 Also needs tutorial
 
@@ -60,7 +60,6 @@ Also needs tutorial
 # TODO - modelling
 This is the stuff that is physically missing from the model
 * Fence
-* Engine mounts
 * Thrustmaster power units
 * White containers
 * Generators
@@ -72,11 +71,10 @@ This is the stuff I should do to verify that my models work in real life
 
 (since only in theory there is no difference between threory and real world)
 
-* Build engine support mounts
-* build engine model again
+* Build platform models
 * fix up the foamboard model I have with correct wings lengths (real foamboard model I have)
 * print the decals for the foamboard model and glue them to it.
-* build 4 engines + **record tutorial on engine building**
+* build 3 engines + **record tutorial on engine building**
 * build rest of deck equipment.
 * Optional - build another foamboard model and **record tutorial on foamboard building**
 * Optional - **create tutorial on gluing decals to the foamboard**
