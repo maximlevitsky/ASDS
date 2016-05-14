@@ -79,7 +79,7 @@ Here I will add models of the equipments used on the ship.
   Design: DONE. Testing: [DONE](https://twitter.com/maximlevitsky/status/731483257674551296). Tutorial: TODO
 * Deck fence : **TODO**
 * Blast walls : **TODO**
-* Thrustmaster power units :***TODO**
+* Thrustmaster power units :**TODO**
 * Generators : **TODO**
 * Fuel tanks: **TODO**
 * White containers : **TODO**
