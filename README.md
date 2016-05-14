@@ -17,7 +17,14 @@ It serves here the role of 'golden' model - from it I take all the dimensions fo
 
 It is not intended to be printed, but only used to get general idea of the model.
 
-**STATUS:** As of today, it should be up to date with the OCISLY.
+**STATUS:** 
+
+Design: As of today, it should be up to date with the OCISLY prior to CRS-8 launch
+Now needs update to blast walls and adding the ladder (not importataint)
+
+Tutorial: N/A
+
+Testing: N/A
 
 ## 2. foamboard
 This is set of the instructions to cut and create an foamboard model to serve as the base of the ship.
@@ -35,8 +42,14 @@ work just fine, but thiker that 5 mm foamboard is not recommented.
 You will also need a brick of Plasticine (or some other semi soft modelling clay) to fill
 some voids.
 
-**STATUS:** As of today, it should be up to date with the OCISLY and it was tested except
-minor modifications that unlikely to break it.
+**STATUS:** 
+
+Design: **DONE**
+
+Testing: [DONE](https://twitter.com/maximlevitsky/status/706599126876684288).
+
+Tutorial: **TODO**
+
 
 ## base_model
 This is set of large decals to be glued onto the foamboard to give all the awesome
@@ -45,38 +58,30 @@ SpaceX branding, etc.
 It is intended to be set of A3 pages to be printed in color, but I might swithc
 to A4 later.
 
-**STATUS:** Ship body done, but untested. Needs testing especially on sides and bottom model
+**STATUS:** 
+
+Design: *Mostly done, needs verifying*
+
+Testing: **TODO**
+
+Tutorial: **TODO**
+
 
 ## eqipment
 
 Here I will add models of the equipments used on the ship.
 
+**STATUS:** 
 
-**STATUS:** Model of the thrustmaster OD1000 done
-
-Also needs tutorial
-
-
-# TODO - modelling
-This is the stuff that is physically missing from the model
-* Fence
-* Thrustmaster power units
-* White containers
-* Generators
-* Blast walls (don't forget the four leaf clover...)
-* Two towers
-
-# TODO - building model
-This is the stuff I should do to verify that my models work in real life 
-
-(since only in theory there is no difference between threory and real world)
-
-* Build platform models
-* fix up the foamboard model I have with correct wings lengths (real foamboard model I have)
-* print the decals for the foamboard model and glue them to it.
-* build 3 engines + **record tutorial on engine building**
-* build rest of deck equipment.
-* Optional - build another foamboard model and **record tutorial on foamboard building**
-* Optional - **create tutorial on gluing decals to the foamboard**
-* Ship it :-)
-* Make insturctions for Just read the Instructions.
+* Thrustmaster OD1000 : 
+  Design: DONE. Testing: [DONE](https://twitter.com/maximlevitsky/status/726489064195674112). Tutorial: TODO
+* Thruster mount platform : 
+  Design: DONE. Testing: [DONE](https://twitter.com/maximlevitsky/status/731483257674551296). Tutorial: TODO
+* Deck fence : **TODO**
+* Blast walls : **TODO**
+* Thrustmaster power units :***TODO**
+* Generators : **TODO**
+* Fuel tanks: **TODO**
+* White containers : **TODO**
+* Flag towers : **TODO**
+* Ladder: **TODO**
