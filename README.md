@@ -31,7 +31,7 @@ This is set of the instructions to cut and create an foamboard model to serve as
 It is needed since ship at 1:100 is huge so it won't support itself if only made of paper.
 
 To build you need two 1meter x 70 cm sheets of 4 mm thick foamboard. 5 or 3 mm probalby will
-work just fine, but thiker that 5 mm foamboard is not recommented.
+work just fine, but thicker that 5 mm foamboard is not recommented.
 
 You will also need a brick of Plasticine (or some other semi soft modelling clay) to fill
 some voids.
@@ -76,7 +76,7 @@ Here I will add sub models of the equipment used on the ship, and various addons
 
   Scale: 1 mm == 1 inch
 
- * Deck fence : **TODO**
+* Deck fence : **TODO**
 * Blast walls : **TODO**
 * Thrustmaster power units :**TODO**
 * Generators : **TODO**
