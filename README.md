@@ -24,32 +24,14 @@ Now needs update to blast walls and adding the ladder (not importataint)
 
 *Testing*: N/A
 
-## hull_base
-
-This is set of the instructions to cut and create an foamboard model to serve as the hull of the ship.
-
-It is needed since ship at 1:100 is huge so it won't support itself if only made of paper.
-
-To build you need two 1meter x 70 cm sheets of 4 mm thick foamboard. 5 or 3 mm probalby will
-work just fine, but thicker that 5 mm foamboard is not recommented.
-
-You will also need a brick of Plasticine (or some other semi soft modelling clay) to fill
-some voids.
-
-You might want to print this model to have off-line set of instructions on cutting.
-
-**STATUS:** 
-
-*Design*: **DONE**
-
-*Testing*: [DONE](https://twitter.com/maximlevitsky/status/706599126876684288).
-
-*Tutorial*: **TODO**
 
 ## hull_model
 
-This is set of printable decals to be glued onto the hull base that is made of foamboard to give ship its texturing.
+This is model for a foamboard base and  set of printable decals to be glued onto the hull base that is made of foamboard to give ship its texturing.
 
+Foamboard base model went through major redesign and now has printable templates that can be transferred to foamboard
+easily (using needle for instance). These templates are in hidden part of 000_base.svg and will be rescaled for printabe
+pages in final model.
 Current scale: (1 foot = 1 mm scale) with intention to make either A4 or A3 set of pages to be printed
 
 **STATUS:** 
