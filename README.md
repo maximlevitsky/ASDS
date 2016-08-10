@@ -46,15 +46,9 @@ Here I will add sub models of the equipment used on the ship, and various addons
 
 **STATUS:** 
 
-* Thurusters (Thrustmaster OD1000): 
-  *Design*: DONE. Testing: [DONE](https://twitter.com/maximlevitsky/status/726489064195674112). *Tutorial*: TODO
-
+* Thurusters + Thruster mount platform  (Thrustmaster OD1000): 
+  *Design*: DONE. Testing: [DONE](https://twitter.com/maximlevitsky/status/726489064195674112 + https://twitter.com/maximlevitsky/status/734105316296687616). *Tutorial*: TODO
   *Scale*: 1 mm == 1 inch
-
-* Thruster mount platform : 
-  Design: DONE. Testing: [DONE](https://twitter.com/maximlevitsky/status/734105316296687616). Tutorial: TODO
-
-  Scale: 1 mm == 1 inch
 
 * Deck fence : **TODO**
 * Blast walls : **TODO**
