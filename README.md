@@ -30,7 +30,10 @@ Now needs update to blast walls and adding the ladder (not importataint)
 This is model for a foamboard base and  set of printable decals to be glued onto the hull base that is made of foamboard to give ship its texturing.
 
 Foamboard base model went through major redesign and now has printable templates that can be transferred to foamboard easily (using needle for instance)
-Current scale: (1 foot = 1 mm scale) with intention to make either A4 or A3 set of pages to be printed
+
+Current scale: (1 foot = 1 mm scale) - set of A4 pages
+
+Some pages which are just mirror images are missing - will create them only in final PDF
 
 **STATUS:** 
 
