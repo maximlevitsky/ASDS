@@ -30,7 +30,7 @@
      showgrid="true"
      units="mm"
      inkscape:zoom="0.265373597651822"
-     inkscape:cx="2151.647836831905"
+     inkscape:cx="1595.827659899593"
      inkscape:cy="1178.787199758015"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -63,119 +63,7 @@
   <desc
      id="desc4">C:\Users\mlevtsky\ASDS\photos\engines\blueprints\dxf\DYPOS-C106236.dxf - scale = 1.000000, origin = (0.000000, 0.000000), auto = False</desc>
   <defs
-     id="defs6">
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern" />
-    <clipPath
-       id="clipPath8642"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8644"
-         d="m 299,94.27557399999999 64,0 0,2 -64,0 0,-2 z" />
-    </clipPath>
-    <mask
-       id="mask8646"
-       height="1"
-       width="1"
-       y="0"
-       x="0"
-       maskUnits="userSpaceOnUse">
-      <g
-         id="g8648">
-        <g
-           id="g8650"
-           clip-path="url(#clipPath8642)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path8652"
-             style="fill:#000000;fill-opacity:0.7929999856;fill-rule:nonzero;stroke:none"
-             d="m 299,94.27557399999999 64,0 0,2 -64,0 0,-2 z" />
-        </g>
-      </g>
-    </mask>
-    <clipPath
-       id="clipPath8658"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8660"
-         d="m 299,94.27557399999999 64,0 0,2 -64,0 0,-2 z" />
-    </clipPath>
-    <clipPath
-       id="clipPath8662"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8664"
-         d="m 299,95 64,0 0,2 -64,0 0,-2 z" />
-    </clipPath>
-    <clipPath
-       id="clipPath8686"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8688"
-         d="m 362,94.27557399999999 1,0 L 363,122.275574 l -1,0 0,-28.00000000000001 z" />
-    </clipPath>
-    <mask
-       id="mask8690"
-       height="1"
-       width="1"
-       y="0"
-       x="0"
-       maskUnits="userSpaceOnUse">
-      <g
-         id="g8692">
-        <g
-           id="g8694"
-           clip-path="url(#clipPath8686)">
-          <path
-             inkscape:connector-curvature="0"
-             id="path8696"
-             style="fill:#000000;fill-opacity:0.7929999856;fill-rule:nonzero;stroke:none"
-             d="m 362,94.27557399999999 1,0 L 363,122.275574 l -1,0 0,-28.00000000000001 z" />
-        </g>
-      </g>
-    </mask>
-    <clipPath
-       id="clipPath8702"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8704"
-         d="m 362,94.27557399999999 1,0 L 363,122.275574 l -1,0 0,-28.00000000000001 z" />
-    </clipPath>
-    <clipPath
-       id="clipPath8706"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path8708"
-         d="m 362,95 1,0 0,28 -1,0 0,-28 z" />
-    </clipPath>
-    <clipPath
-       id="clipPath10620"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path10622"
-         d="m 712,557.2759999999999 88,0 0,-53.9999999999998 -88,0 0,53.9999999999998 z" />
-    </clipPath>
-    <clipPath
-       id="clipPath10626"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         inkscape:connector-curvature="0"
-         id="path10628"
-         d="M 712.7809999999999,543.7089999999999 793.676,556.3029999999998 l 6.1909999999998,-39.5 L 718.9729999999999,504.209 l -6.192,39.4999999999999 z" />
-    </clipPath>
-  </defs>
+     id="defs6" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
