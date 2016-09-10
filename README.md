@@ -37,7 +37,7 @@ Some pages which are just mirror images are missing - will create them only in f
 
 **STATUS:** 
 
-Design: *Done, needs verifying*
+Design: *DONE, needs verifying*
 
 Testing: **TODO**
 
@@ -53,11 +53,9 @@ Here I will add sub models of the equipment used on the ship, and various addons
   *Design*: DONE. Testing: [DONE1](https://twitter.com/maximlevitsky/status/726489064195674112) [DONE2](https://twitter.com/maximlevitsky/status/734105316296687616). *Tutorial*: TODO
   *Scale*: 1 mm == 1 inch
 
+* Blast walls : DONE
 * Deck fence : mostly done
-* Blast walls : 1/3 done
-* Thrustmaster power units :**TODO**
-* Generators : **TODO**
-* Fuel tanks: **TODO**
-* White containers : **TODO**
 * Flag towers : **TODO**
+* Thrustmaster power units :**TODO**
+* Generators/Fuel tanks/White containers : **TODO**
 * Ladder: **TODO**
