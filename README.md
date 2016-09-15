@@ -54,8 +54,8 @@ Here I will add sub models of the equipment used on the ship, and various addons
   *Scale*: 1 mm == 1 inch
 
 * Blast walls : DONE
-* Deck fence : mostly done
-* Flag towers : **TODO**
-* Thrustmaster power units :**TODO**
+* Deck fence : DONE
+* Flag towers : DONE
 * Generators/Fuel tanks/White containers : **TODO**
+* Thrustmaster power units :**TODO**
 * Ladder: **TODO**
