@@ -56,6 +56,8 @@ Here I will add sub models of the equipment used on the ship, and various addons
 * Blast walls : DONE
 * Deck fence : DONE
 * Flag towers : DONE
-* Generators/Fuel tanks/White containers : **TODO**
-* Thrustmaster power units :**TODO**
+* Thrustmaster power units : 50% done
+* Generators: TODO
+* Fuel tanks: TODO
+* Containers : **TODO**
 * Ladder: **TODO**

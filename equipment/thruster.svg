@@ -29,9 +29,9 @@
      id="namedview5831"
      showgrid="true"
      units="mm"
-     inkscape:zoom="0.265373597651822"
-     inkscape:cx="1595.827659899593"
-     inkscape:cy="1178.787199758015"
+     inkscape:zoom="0.1334810108404113"
+     inkscape:cx="1098.103142071736"
+     inkscape:cy="1490.914595617462"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -39,7 +39,8 @@
      width="594mm"
      inkscape:document-units="mm"
      showborder="true"
-     showguides="false">
+     showguides="false"
+     borderlayer="false">
     <inkscape:grid
        units="mm"
        spacingx="3.543307086614174"
@@ -56,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
